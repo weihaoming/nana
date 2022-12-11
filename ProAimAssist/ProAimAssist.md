@@ -261,7 +261,7 @@ $$\vec{targetCrosshairPosition}:准星当前位置$$
 
 当目标消失时，targetCrosshairPosition直接回归到默认中心位置
 #### <font color='red'>总结</font>
-靠近目标后准信会被自动拉向目标socket上。
+靠近目标后准心会被自动拉向目标socket上。
 
 ### 3.3辅助瞄准范围修正
 
